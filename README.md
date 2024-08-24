@@ -1,4 +1,4 @@
-# optimization-demo-files
+# optimization-scripts
 Here you might find some examples and tutorials on numerical optimization.
 
 A comprehensive [Python course](https://www.udemy.com/course/numerical-optimization-and-operations-research-in-python/?referralCode=FC93E35606AC78F1A8C5) featuring several of these examples can be found [HERE](https://www.udemy.com/course/numerical-optimization-and-operations-research-in-python/?referralCode=FC93E35606AC78F1A8C5).
